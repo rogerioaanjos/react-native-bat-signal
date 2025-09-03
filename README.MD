@@ -77,7 +77,7 @@ This project was developed with the following technologies:
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
 ```bash
-git clone https://github.com/rogerioanjosdev/react-native-bat-signal.git
+git clone https://github.com/rogerioaanjos/react-native-bat-signal.git
 $ cd react-native-bat-signal
 $ npm install
 $ npm run start
